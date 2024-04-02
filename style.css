@@ -1,0 +1,18 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    color:white;
+    font-size: 30px;
+}
+h2 {
+    font-family: 'Courier New', Courier, monospace;
+    color:white;
+    font-size: 20px;
+}
+
+a {
+    color: white;
+}
